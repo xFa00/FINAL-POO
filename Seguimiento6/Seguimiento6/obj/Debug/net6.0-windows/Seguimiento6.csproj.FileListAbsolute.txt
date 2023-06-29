@@ -1,0 +1,17 @@
+C:\Users\ronal\Desktop\Seguimiento6\Seguimiento6\Seguimiento6\bin\Debug\net6.0-windows\Seguimiento6.exe
+C:\Users\ronal\Desktop\Seguimiento6\Seguimiento6\Seguimiento6\bin\Debug\net6.0-windows\Seguimiento6.deps.json
+C:\Users\ronal\Desktop\Seguimiento6\Seguimiento6\Seguimiento6\bin\Debug\net6.0-windows\Seguimiento6.runtimeconfig.json
+C:\Users\ronal\Desktop\Seguimiento6\Seguimiento6\Seguimiento6\bin\Debug\net6.0-windows\Seguimiento6.dll
+C:\Users\ronal\Desktop\Seguimiento6\Seguimiento6\Seguimiento6\bin\Debug\net6.0-windows\Seguimiento6.pdb
+C:\Users\ronal\Desktop\Seguimiento6\Seguimiento6\Seguimiento6\obj\Debug\net6.0-windows\Seguimiento6.csproj.AssemblyReference.cache
+C:\Users\ronal\Desktop\Seguimiento6\Seguimiento6\Seguimiento6\obj\Debug\net6.0-windows\Seguimiento6.Form1.resources
+C:\Users\ronal\Desktop\Seguimiento6\Seguimiento6\Seguimiento6\obj\Debug\net6.0-windows\Seguimiento6.csproj.GenerateResource.cache
+C:\Users\ronal\Desktop\Seguimiento6\Seguimiento6\Seguimiento6\obj\Debug\net6.0-windows\Seguimiento6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronal\Desktop\Seguimiento6\Seguimiento6\Seguimiento6\obj\Debug\net6.0-windows\Seguimiento6.AssemblyInfoInputs.cache
+C:\Users\ronal\Desktop\Seguimiento6\Seguimiento6\Seguimiento6\obj\Debug\net6.0-windows\Seguimiento6.AssemblyInfo.cs
+C:\Users\ronal\Desktop\Seguimiento6\Seguimiento6\Seguimiento6\obj\Debug\net6.0-windows\Seguimiento6.csproj.CoreCompileInputs.cache
+C:\Users\ronal\Desktop\Seguimiento6\Seguimiento6\Seguimiento6\obj\Debug\net6.0-windows\Seguimiento6.dll
+C:\Users\ronal\Desktop\Seguimiento6\Seguimiento6\Seguimiento6\obj\Debug\net6.0-windows\refint\Seguimiento6.dll
+C:\Users\ronal\Desktop\Seguimiento6\Seguimiento6\Seguimiento6\obj\Debug\net6.0-windows\Seguimiento6.pdb
+C:\Users\ronal\Desktop\Seguimiento6\Seguimiento6\Seguimiento6\obj\Debug\net6.0-windows\Seguimiento6.genruntimeconfig.cache
+C:\Users\ronal\Desktop\Seguimiento6\Seguimiento6\Seguimiento6\obj\Debug\net6.0-windows\ref\Seguimiento6.dll
